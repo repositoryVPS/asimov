@@ -1,0 +1,13 @@
+{
+    "titulo_app": "Minha Aplicação Web",
+    "menu_opcoes": ["Página Inicial", "Sobre", "Contato"],
+    "pagina_inicial_texto": "Bem-vindo à Página Inicial!",
+    "sobre_texto": "Esta aplicação foi criada usando Streamlit.",
+    "contato_texto": "Entre em contato conosco pelo email contato@exemplo.com",
+    
+    "caminho_df_players_2023": "datasets\\CLEAN_FIFA23_official_data.csv",
+
+
+    "inicial_home": "# FIFA 2023 OFFICIAL DATASET!",
+    "home_who":"Desenvolvido por PALAZZO"
+}
