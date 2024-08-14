@@ -5,7 +5,7 @@
     "sobre_texto": "Esta aplicação foi criada usando Streamlit.",
     "contato_texto": "Entre em contato conosco pelo email contato@exemplo.com",
     
-    "caminho_df_players_2023": "datasets\\CLEAN_FIFA23_official_data.csv",
+    "caminho_df_players_2023": "datasets\CLEAN_FIFA23_official_data.csv",
 
 
     "inicial_home": "# FIFA 2023 OFFICIAL DATASET!",

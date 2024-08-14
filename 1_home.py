@@ -21,9 +21,7 @@ if "data" not in st.session_state:
 st.markdown(configs["inicial_home"])
 st.sidebar.markdown(configs["home_who"])
 
-btn = st.button("Acesse os dados no Kaggle")
-if btn:
-    wb.open_new_tab("http://www.kaggle.com")
+btn = st.link_button("Acesse os dados no Kaggle","http://www.kaggle.com")
 
 
 st.markdown("""
